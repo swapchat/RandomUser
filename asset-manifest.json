@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/swapchat/RandomUser/static/css/main.ca05786c.chunk.css",
+    "main.js": "/swapchat/RandomUser/static/js/main.512bf940.chunk.js",
+    "main.js.map": "/swapchat/RandomUser/static/js/main.512bf940.chunk.js.map",
+    "runtime-main.js": "/swapchat/RandomUser/static/js/runtime-main.21692230.js",
+    "runtime-main.js.map": "/swapchat/RandomUser/static/js/runtime-main.21692230.js.map",
+    "static/js/2.9ea08c01.chunk.js": "/swapchat/RandomUser/static/js/2.9ea08c01.chunk.js",
+    "static/js/2.9ea08c01.chunk.js.map": "/swapchat/RandomUser/static/js/2.9ea08c01.chunk.js.map",
+    "index.html": "/swapchat/RandomUser/index.html",
+    "static/css/main.ca05786c.chunk.css.map": "/swapchat/RandomUser/static/css/main.ca05786c.chunk.css.map",
+    "static/js/2.9ea08c01.chunk.js.LICENSE.txt": "/swapchat/RandomUser/static/js/2.9ea08c01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21692230.js",
+    "static/js/2.9ea08c01.chunk.js",
+    "static/css/main.ca05786c.chunk.css",
+    "static/js/main.512bf940.chunk.js"
+  ]
+}
